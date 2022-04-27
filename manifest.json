@@ -42,6 +42,7 @@
          "sizes":"192x192",
          "type":"image/png",
          "density":"4.0"
+         "purpose": "any maskable"
       },
       {
          "src":"url(https://rawcdn.githack.com/fajarmohamadarief/manifest.json/9e675f5bdba7acf832d59cdf4fb558b8564aa14e/android-chrome-384x384.png)",
