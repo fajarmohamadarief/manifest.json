@@ -50,7 +50,7 @@
          "density":"5.0"
       },
       {
-         "src": "path/to/maskable_icon.png",
+         "src": "https://rawcdn.githack.com/fajarmohamadarief/manifest.json/a4cae338429ef2f7718e6ea6879297cb12cf083d/maskable_icon%20(1).png",
          "sizes": "196x196",
          "type": "image/png",
          "purpose": "maskable"
